@@ -1,8 +1,6 @@
 # Lyric Finder
 
-> Library to easily find song lyrics and other information about songs.
-
-[![NPM Version][npm-image]][npm-url]
+> Library to easily find song lyrics and other information about songs
 
 ## Install
 
